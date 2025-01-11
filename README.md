@@ -66,7 +66,7 @@ Error Handling: Clear and actionable feedback for invalid inputs.
 FastAPI: High-performance API framework for backend development.
 Gradio: Interactive frontend for a user-friendly experience.
 LangChain: Framework for language model integration.
-OpenAI GPT-4: State-of-the-art language model for resume analysis.
+OpenAI GPT-4o-mini: State-of-the-art language model for resume analysis.
 PyPDF2: Reliable PDF processing for text extraction.
 
 
@@ -157,6 +157,15 @@ Outputs:
 
 JSON containing compatibility score, strengths, and weaknesses.
 
+#HOW YOU WILL ASK QUESTION JOB DESCRIPYION IN THE FORM OF THIS
+Responsibilities:
+Collaborate with cross-functional teams to define, design, and ship new features.
+
+Skills:
+Proficient in Python, JavaScript, and SQL.
+
+Experience:
+3+ years of experience as a Software Developer.
 
 
 
@@ -180,5 +189,5 @@ Response:
 
 License
 
-This project is licensed under the UET License.
+This project is licensed under the MIT License.
 Let me know if you need further assistance!
